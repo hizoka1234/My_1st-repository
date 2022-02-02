@@ -1,2 +1,2 @@
-# My_1st-repository
+# My_1st_repository
 Testing
